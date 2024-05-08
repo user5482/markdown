@@ -21,9 +21,9 @@ You create headers by using the `#` symbol before your text. The number of `#` s
 
 ### Lists
 - **Unordered Lists**: Use asterisks, plus, or hyphens interchangeably.
-- - example
-- - example
-- - example
+  - example
+  - example
+  - example
 
 - **Ordered Lists**: Use numbers followed by periods.
 
