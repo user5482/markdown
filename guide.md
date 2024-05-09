@@ -26,7 +26,11 @@ You create headers by using the `#` symbol before your text. The number of `#` s
   - example
 
 - **Ordered Lists**: Use numbers followed by periods.
+  1. example
+  2. example
+  3. example
 
+  note: use "tab" to indent
 
 ### Links
 To create a link, wrap the link text in brackets `[ ]`, and then wrap the link in parentheses `( )`.
